@@ -1,4 +1,5 @@
-parquet/*.parquet
+.ipynb_checkpoints/
+parquet/
 *.7z
 *.txt
 *.parquet
