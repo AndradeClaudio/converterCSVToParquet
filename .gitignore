@@ -1,4 +1,4 @@
-parquet/
+parquet/*.parquet
 *.7z
 *.txt
 *.parquet
